@@ -127,7 +127,7 @@
     <header>
         <h1>🥄 Ergonomic Enhanced Spoon (EES)</h1>
         <div class="subtitle">Next-Generation 3D-Modelled Adaptive Cutlery</div>
-        <div class="founders">Created by <strong>Essam</strong> &amp; <strong>Zethric</strong></div>
+        <div class="founders">Created by <strong>E</strong> &amp; <strong>Z</strong></div>
     </header>
 
     <div class="container">
