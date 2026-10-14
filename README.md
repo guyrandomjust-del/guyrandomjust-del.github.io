@@ -175,7 +175,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2026 Essam &amp; Zethric. Hosted on GitHub Pages.</p>
+        <p>&copy; 2026 E &amp; Z. Hosted on GitHub Pages.</p>
     </footer>
 
 </body>
